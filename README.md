@@ -15,6 +15,5 @@ II) Make sure /src/tju/session/utils/IndriAPI.java can be run properly.
 III) Run /src/tju/session/utils/IndriAPIEntryPoint.java. Set the variable indexDir with the directory path of your index. 
 
 IV) Run test_py4j.py.  The variable "indri" stores all the information of the index. You can try using other functions in IndriAPI.java to 
-
 visit this variable and build your own application on top of it.
     
